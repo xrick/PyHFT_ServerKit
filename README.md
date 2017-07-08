@@ -1,2 +1,2 @@
-# PyHFT_ServerKit
-A programming library written by Python for High Frequency Trade
+# PyNetScrap
+A programming library written by Python for Internet Data retrive and analysis.
